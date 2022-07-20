@@ -73,8 +73,11 @@ html{
     font-size: 18px;
     margin-top: 20px;
     font-weight: 500;
+    cursor:pointer;
 
 }
+.watch-live:hover{
+    background:aqua;
 .fa-greater-than{
    font-size: 18px;
    font-weight: normal;
